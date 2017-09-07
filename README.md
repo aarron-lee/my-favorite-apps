@@ -15,3 +15,17 @@ Here is a list of the ones I use the most in my daily day-to-day life:
 #### [IINA Video Player](https://github.com/lhc70000/iina)
 
 - An absolutely gorgeous media player that is based on mpv, which means it can tackle most modern day video files with no problems. I recently discovered this as an alternative to VLC, and oh man, it's so much nicer to use. It has a lovely user experience, and is open source too!
+
+
+
+
+
+### Multi-Platform
+
+#### [Discord](https://discordapp.com)
+
+- Discord is an amazingly powerful chat application that I use to keep in touch with certain niche communities (often gaming-related), as well as some friends.
+
+#### [Atom](https://atom.io/)
+
+- A powerful text editor that's highly customizable. Great for doing web dev work with a lot of cool features (and has a lot of extra bells and whistles). The downside is that it can have performance issues, and for that, I fall back on [Sublime Text](https://www.sublimetext.com/). I occasionally use vi too, but I'm still learning that...
