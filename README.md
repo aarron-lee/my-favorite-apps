@@ -46,3 +46,14 @@ Here is a list of the ones I use the most in my daily day-to-day life:
 #### [Tachiyomi](https://github.com/inorichi/tachiyomi)
 
 - An open source manga-reading app that runs smoothly, and has a ton of great features
+
+#### [7 Weeks](https://play.google.com/store/apps/details?id=com.ryan.brooks.sevenweeks.app&hl=en)
+
+- A very easy to use goal-tracking app. Intuitive to use, and while it may not have all the features of other similar apps, it is straight to the point with no gimmicks or unnecessary details.
+
+#### Google Play Music, Google Books, Inbox, other Google services
+
+- Google has some excellent services. I'm a particular fan of Music, Books, and Inbox. I've used them for a very long time now, and while they each have their own hiccups, in general they've provided me with great cloud-enabled services.
+- Google Music - stream my own personally uploaded music library (up to 50,000 songs!)
+- Google Books - sync my own personally uploaded PDFs, etc, across many devices via the cloud
+- Google Inbox - makes gmail management so much easier!
