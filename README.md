@@ -7,10 +7,6 @@ I use a lot of applications on a variety of devices, ranging from my Personal An
 Here is a list of the ones I use the most in my daily day-to-day life:
 
 
-
-
-
-
 ### Multi-Platform
 
 #### [Discord](https://discordapp.com)
@@ -24,6 +20,10 @@ Here is a list of the ones I use the most in my daily day-to-day life:
 #### [Cyberduck](https://cyberduck.io)
 
 - A SFTP client that also supports accessing Google Drive, Dropbox, and other cloud services. It's really convenient for SFTP file transfers, as well as the occasional transfer to other cloud services.
+
+#### [Anki](https://apps.ankiweb.net/)
+
+- Anki is an app that uses a Spaced Repetition Algorithm in order for to have you constantly review material you deem that you are weak in. What makes this app great is that you don't need to keep track of what you're "good" or "bad" at. I use it from studying everything from Programming Topics, to real-world languages (currently brushing up on my Japanese Kanji).
 
 
 ###MacOS
