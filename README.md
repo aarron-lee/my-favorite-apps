@@ -35,3 +35,14 @@ Here is a list of the ones I use the most in my daily day-to-day life:
 #### [IINA Video Player](https://github.com/lhc70000/iina)
 
 - An absolutely gorgeous media player that is based on mpv, which means it can tackle most modern day video files with no problems. I recently discovered this as an alternative to VLC, and oh man, it's so much nicer to use. It has a lovely user experience, and is open source too!
+
+
+###Android
+
+#### [Reddit Sync Pro](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync.pro&hl=en)
+
+- My favorite Reddit client. It has an awesome UI, an excellent dark AMOLED theme, and all-in-all is a joy to use.
+
+#### [Tachiyomi](https://github.com/inorichi/tachiyomi)
+
+- An open source manga-reading app that runs smoothly, and has a ton of great features
