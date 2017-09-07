@@ -1,6 +1,6 @@
-#My Favorite Applications for My Devices
+# My Favorite Applications for My Devices
 
-##Applications
+## Applications
 
 I use a lot of applications on a variety of devices, ranging from my Personal Android Phones, to my awesome Macbook Pro.
 
@@ -26,7 +26,7 @@ Here is a list of the ones I use the most in my daily day-to-day life:
 - Anki is an app that uses a Spaced Repetition Algorithm in order for to have you constantly review material you deem that you are weak in. What makes this app great is that you don't need to keep track of what you're "good" or "bad" at. I use it from studying everything from Programming Topics, to real-world languages (currently brushing up on my Japanese Kanji).
 
 
-###MacOS
+### MacOS
 
 #### [Better Touch Tool](https://www.boastr.net/)
 
@@ -37,7 +37,7 @@ Here is a list of the ones I use the most in my daily day-to-day life:
 - An absolutely gorgeous media player that is based on mpv, which means it can tackle most modern day video files with no problems. I recently discovered this as an alternative to VLC, and oh man, it's so much nicer to use. It has a lovely user experience, and is open source too!
 
 
-###Android
+### Android
 
 #### [Reddit Sync Pro](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync.pro&hl=en)
 
